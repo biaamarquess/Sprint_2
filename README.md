@@ -135,18 +135,4 @@ As decisões técnicas, premissas, limitações e possíveis desvios da Sprint 0
 - Não se deve usar o resultado como cobrança real sem validação de dados e aprovação das regras.
 - Evite enviar dados pessoais reais para repositórios públicos.
 
-## Equipe e processo de desenvolvimento
 
-Preencham os nomes dos integrantes e registrem commits frequentes, com mensagens descritivas, por exemplo:
-
-```text
-feat: implementar cálculo do rateio híbrido
-feat: integrar detecção de sessões atípicas
-feat: criar dashboard de consumo e custos
-test: adicionar testes do motor de rateio
-docs: atualizar README e evidências da sprint 02
-```
-
-## Entrega
-
-O arquivo `entrega-sprint-02.txt` deve conter o endereço do repositório público ou acessível para avaliação. Antes de enviar, façam push dos arquivos para o GitHub, confirmem que o README está atualizado e substituam qualquer evidência de exemplo por capturas reais do protótipo executado.
