@@ -7,34 +7,6 @@ Esta Sprint 02 evolui a proposta conceitual da Sprint 01 para um **MVP local e d
 
 > **Importante:** o projeto utiliza dados simulados. Não possui integração direta com o carregador GoodWe, com a plataforma SEMS/Sense Plus ou com sistemas de cobrança reais.
 
-**Equipe**
-
-<table>
-  <thead>
-    <tr>
-      <th>Integrante</th>
-      <th>RM</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Danilo Gustavo da Silva Fernandes</td>
-      <td>RM570057</td>
-    </tr>
-    <tr>
-      <td>Renan Mano Otero</td>
-      <td>RM573615</td>
-    </tr>
-    <tr>
-      <td>Beatriz Marques Souza</td>
-      <td>RM571819</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><strong>E-mail da equipe:</strong> rm570057@fiap.com.br</td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
 ## Resumo da solução
