@@ -1,4 +1,4 @@
-# EV ChargeOps — Sprint 02
+# Enterprise Challenge 2026 - GoodWe + FIAP — Sprint 02
 
 **Protótipo funcional acadêmico para gestão de recargas compartilhadas de veículos elétricos.**
 
