@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: ev-chargeops
+Version: 0.2.0
+Summary: Protótipo acadêmico de gestão de recarga compartilhada de veículos elétricos
+Requires-Python: >=3.10
+Requires-Dist: streamlit<2.0,>=1.35
+Requires-Dist: pandas<3.0,>=2.0
+Requires-Dist: plotly<7.0,>=5.20
+Requires-Dist: scikit-learn<2.0,>=1.4
+Requires-Dist: numpy<3.0,>=1.26
